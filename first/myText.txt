@@ -1,1 +1,1 @@
-Hello This text file to practice with git.
+Hello This text file to practice with git. I added payment app to my online store app.
